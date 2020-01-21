@@ -45,7 +45,7 @@ import {
 import {BrowserModule} from '@angular/platform-browser';
 import {platformBrowserDynamic} from '@angular/platform-browser-dynamic';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
-import {SnackBarComponentExample, PizzaPartyComponent} from './app/snack-bar-component-example';
+import {SnackBarComponentExample, PizzaPartyComponent} from './app/app-main';
 
 @NgModule({
   exports: [

@@ -7,7 +7,7 @@ import { MatSnackBar, MatSnackBarConfig,
  */
 @Component({
   selector: 'snack-bar-component-example',
-  templateUrl: 'snack-bar-component-example.html',
+  templateUrl: 'app-main.html',
 })
 export class SnackBarComponentExample {
   configSuccess: MatSnackBarConfig = {
