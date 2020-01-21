@@ -30,7 +30,7 @@ export class SnackBarComponentExample {
 
 @Component({
   selector: 'snack-bar-component-example-snack',
-  templateUrl: 'snack-bar-component-example-snack.html',
+  templateUrl: 'snack-bar-custom.component.html',
 })
 export class PizzaPartyComponent {
   constructor( 
